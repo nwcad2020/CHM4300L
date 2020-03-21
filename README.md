@@ -1,2 +1,5 @@
 # CHM4300L PORTFOLIO 
-Reports and code scripts for Biochemistry Laboratory
+This Repository contains the scripts used to perform the Data Analysis portions required for the CHM4300L Reports
+
+--------------------------------------------------------------------------------
+
