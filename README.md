@@ -12,3 +12,15 @@ A graph is then made (y axis being the log(kDa) and x axis being distance travel
 ## Agarose Gel Electrophoresis Analysis Script
 
 Much like the SDS-PAGE Script, the AGE script takes manually inputted distances travelled, and ladder-estimated base pair lengths, performs a base 10 logarithm on the base pair lengths, then plots the distances traveled as the x axis and the logarithm as the y axis. A summary is also generated, from which the regression line can be derived from. 
+
+## Bradford Analysis Script 
+
+This script takes a comma separated values (CSV) file, and assuming it has only two columns, with the first representing  the concentration of Bovine Serup Albumin (BSA), and the second representing the 595 nm absorbance measurement obtained using UV-VIS Spectroscopy. 
+
+The script generates a plot, with linear regression, and  a simple 5 term summary.
+
+The linear regression equation labeled on the plot will have to be manually changed. 
+
+## CENTA Analysis Script
+
+
